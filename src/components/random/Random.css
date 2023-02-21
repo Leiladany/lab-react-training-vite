@@ -1,0 +1,10 @@
+.random {
+    text-align: initial;
+    background-color: white;
+    color: black;
+    min-width: 50vw;
+    display: flex;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
